@@ -1,4 +1,4 @@
-#🛍️ AluraStore – Análise de Desempenho das Lojas
+🛍️ AluraStore – Análise de Desempenho das Lojas
 Este projeto tem como objetivo aplicar técnicas de análise de dados para identificar qual das quatro principais lojas da AluraStore apresenta o menor retorno para a empresa. A análise considera aspectos financeiros e de satisfação do cliente.
 
 📊 Objetivo
